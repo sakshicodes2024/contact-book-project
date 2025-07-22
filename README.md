@@ -1,7 +1,7 @@
 # contact-book-project
 Contact Book Project (Python)
 
-This is a simple Contact Book application built using Python. It allows users to **add**, **view**, and **search** contacts using a command-line interface.
+This is a simple Contact Book application built using Python. It allows users to add, view, and search contacts using a command-line interface.
 
 🔧 Features
 
@@ -13,10 +13,10 @@ This is a simple Contact Book application built using Python. It allows users to
  🗃️ Project Structure
 
 contact_book/
-├── contact.py # Defines the Contact class
-├── contact_book.py # Defines the ContactBook class
-├── main.py # Interface for user interaction
-├── README.md # Project documentation
+ contact.py  #Defines the Contact class
+ contact_book.py # Defines the ContactBook class
+ main.py # Interface for user interaction
+ README.md # Project documentation
 
 🧩 Files Description
 
@@ -38,8 +38,5 @@ Enter your choice:
 3. Search Contact
 4. Exit
 
-Enter name: John
-Enter phone: 9876543210
-Enter email: john@example.com
-Contact added successfully!
+
 
